@@ -1,5 +1,5 @@
 SocksPort 127.0.0.1:9050
 SocksPort 10.100.100.1:9050
-Log notice file /war/log/tor/notices.log
+Log notice file /var/log/tor/notices.log
 AutomapHostsOnResolve 1
 DNSPort 5353
