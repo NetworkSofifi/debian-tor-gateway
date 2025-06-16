@@ -1,4 +1,4 @@
-kfilter
+*kfilter
 :INPUT DROP [32:8850]
 :FORWARD DROP [0:0]
 :OUTPUT DROP [3:252]
